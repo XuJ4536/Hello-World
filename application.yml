@@ -1,4 +1,5 @@
-name:test
+name: 
+  test
 spring: 
   datasource: 
     url: jdbc:mysql:///world?useSSL=true
