@@ -1,5 +1,5 @@
 name: 
-  test
+  V1.Release
 spring: 
   datasource: 
     url: jdbc:mysql:///world?useSSL=true
