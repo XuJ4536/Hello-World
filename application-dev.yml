@@ -1,0 +1,9 @@
+
+name: 
+  V1.Realse---Dev
+spring: 
+  datasource: 
+    url: jdbc:mysql:///world?useSSL=true
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
