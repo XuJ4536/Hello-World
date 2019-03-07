@@ -1,5 +1,5 @@
 name: 
-  test
+  master
 spring: 
   datasource: 
     url: jdbc:mysql:///world?useSSL=true
