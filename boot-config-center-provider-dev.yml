@@ -4,6 +4,6 @@ name:
 spring: 
   datasource: 
     url: jdbc:mysql:///world?useSSL=true
-    username: root
+    username: '{cipher}02a6554968f7f47df1e5df3431bf0414254c5cfd00c2153c593c13d41cab15e4'
     password: root
     driver-class-name: com.mysql.jdbc.Driver
